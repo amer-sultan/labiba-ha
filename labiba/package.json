@@ -1,0 +1,12 @@
+{
+  "name": "labiba",
+  "version": "0.1.0",
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0",
+    "@whiskeysockets/baileys": "6.7.18",
+    "googleapis": "^144.0.0",
+    "pino": "^9.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
